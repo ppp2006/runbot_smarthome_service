@@ -1,0 +1,5 @@
+string room_name
+string dev_name
+string op_name
+---
+bool result
